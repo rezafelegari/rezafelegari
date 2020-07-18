@@ -13,8 +13,7 @@ A little more about me...
 ```javascript
 const muhsenmaqsudi = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "NodeJS"],
-  tools: ["Laravel", "VueJS", "TailwindCSS", "NestJS", "Jest", "Cypress", "Docker", "Nginx", "Jenkins", "Redis", "RabbitMQ"],  
-  challenge: "I am doing the #100DaysOfCode challenge focused on nestjs, typescript, vuejs, jest and docker + nginx"
+  code: ["Java", "Dart", "Python"],
+  tools: ["Android", "Flutter", "Aqueduct", "Flask", "Django"]
 }
 ```
