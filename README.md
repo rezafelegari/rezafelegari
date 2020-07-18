@@ -1,18 +1,20 @@
-### Hi there 👋
+<h2> Hi, I'm Reza Felegari</h2>
+<img align='right' src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="230">
+<p>
+  <em></br>Mobile Application developer at <a href="#">Barakat E-Health Operator</a> using Android & Flutter<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-🔭 I’m currently working on Mobile Applications
+[![Twitter: Reza67707456](https://img.shields.io/twitter/follow/Reza67707456?style=social)](https://twitter.com/Reza67707456)
+[![Linkedin: rezafelegari](https://img.shields.io/badge/-rezafelegari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rezafelegari/)](https://www.linkedin.com/in/rezafelegari/)
+[![GitHub rezafelegari](https://img.shields.io/github/followers/rezafelegari?label=follow&style=social)](https://github.com/rezafelegari)
 
-<!--
-**rezafelegari/rezafelegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const muhsenmaqsudi = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "NodeJS"],
+  tools: ["Laravel", "VueJS", "TailwindCSS", "NestJS", "Jest", "Cypress", "Docker", "Nginx", "Jenkins", "Redis", "RabbitMQ"],  
+  challenge: "I am doing the #100DaysOfCode challenge focused on nestjs, typescript, vuejs, jest and docker + nginx"
+}
+```
